@@ -22,3 +22,9 @@ Start the project
 npm run dev
 
 ```
+
+```npm
+
+npm run build
+
+```
